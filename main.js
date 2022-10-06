@@ -348,7 +348,7 @@ const { send } = require('process');
                 pattern_register_bot(registration.messages[i]) ;
             }
             
-            //pattern_schedule(prevMsgData.messages[0])  ;
+            //pattern_schedule(prevMsgData.messages[0]).pattern  ;
 
             for(var i = 0 ; i < prevMsgData.messages.length  ; i++ )
             {
