@@ -22,7 +22,7 @@ We may schedule a private message or a stream:-
 	Command for scheduling a private message 
 		message_schedule dd-mm-yyyy-hh-mm private-message-address> <--message content -->
 	eg:-
-	message_schedule 02-05-2021-04-48 souravhzb3@gmail.com> Hey buddy how are you!
+	message_schedule 02-05-2021-04-48 ritikhzb08@gmail.com> Hey buddy how are you!
 
 	
 	Command for scheduling a message to the stream
