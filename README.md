@@ -1,5 +1,5 @@
 Project:- Scheduler bot using zulip API
--------------------------------------------------------------------------
+---------------------------------------------------------------------------
 Command used 
 
 The Scheduler bot is used to schedule a  message for a particular timeframe.
